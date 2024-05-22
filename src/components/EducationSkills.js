@@ -11,13 +11,12 @@ const EducationSkills = () => {
         <p>Data Structures and Algorithms, Software Construction, Web Development, Machine Learning</p>
       </div>
       <div>
-        <h3>Skills</h3>
-        <ul>
-          <li>C++, Java, Python</li>
-          <li>HTML, CSS, Javascript</li>
-          <li>ReactJS, NextJS, ExpressJS, TailwindCSS</li>
-          <li>Problem Solving, Critical Thinking, Communication </li>
-        </ul>
+        <h3>Technical Skills</h3>
+          <p>C++, Java, Python</p>
+          <p>HTML, CSS, Javascript</p>
+          <p>ReactJS, NextJS, ExpressJS, TailwindCSS</p>
+          <h3>Soft Skills</h3>
+          <p>Problem Solving, Critical Thinking, Communication </p>
       </div>
     </Section>
   );
@@ -25,7 +24,7 @@ const EducationSkills = () => {
 
 const Section = styled.section`
   padding: 2rem;
-  text-align: left;
+  text-align: center;
 `;
 
 export default EducationSkills;

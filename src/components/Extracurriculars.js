@@ -23,7 +23,7 @@ const Extracurriculars = () => {
 
 const Section = styled.section`
   padding: 2rem;
-  text-align: left;
+  text-align: center;
 `;
 
 const Activity = styled.div`
