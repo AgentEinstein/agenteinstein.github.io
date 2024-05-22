@@ -7,19 +7,15 @@ const Extracurriculars = () => {
       <h2>Extracurricular Activities & Interests</h2>
       <Activity>
         <h3>Hackathons</h3>
-        <p>Participated in various hackathons, achieving notable results such as [insert achievements].</p>
+        <p>Participated in various hackathons, such as CitrusHack 2022 where my team and I received Best Beginner Award.</p>
       </Activity>
       <Activity>
         <h3>Coding Clubs</h3>
-        <p>Active member of [insert coding club], where I collaborated on several projects and mentored new members.</p>
-      </Activity>
-      <Activity>
-        <h3>Volunteer Work</h3>
-        <p>Volunteered at [insert organization], contributing to [insert activities or projects].</p>
+        <p>Active member of ACM@UCR, where I collaborated on several projects.</p>
       </Activity>
       <Activity>
         <h3>Interests</h3>
-        <p>Passionate about [insert interests], such as [insert hobbies or activities].</p>
+        <p>Passionate about Web Development and Machine Learning</p>
       </Activity>
     </Section>
   );
@@ -34,11 +30,9 @@ const Activity = styled.div`
   margin-bottom: 1.5rem;
   h3 {
     margin-bottom: 0.5rem;
-    color: #333;
   }
   p {
     margin: 0;
-    color: #666;
   }
 `;
 

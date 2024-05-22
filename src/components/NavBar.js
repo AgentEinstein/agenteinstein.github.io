@@ -10,7 +10,6 @@ const NavBar = () => {
       <Link to="/education-skills">Education/Skills</Link>
       <Link to="/experience-projects">Experience/Projects</Link>
       <Link to="/extracurriculars">Extracurriculars</Link>
-      <Link to="/contact">Contact</Link>
     </Nav>
   );
 };
