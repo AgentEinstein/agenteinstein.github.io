@@ -42,7 +42,6 @@ const StarryBackground = () => {
 
     animate();
 
-    // Resize canvas on window resize
     const handleResize = () => {
       canvas.width = window.innerWidth;
       canvas.height = window.innerHeight;
@@ -50,7 +49,7 @@ const StarryBackground = () => {
 
     window.addEventListener('resize', handleResize);
 
-    // Cleanup on component unmount
+   
     return () => {
       window.removeEventListener('resize', handleResize);
     };

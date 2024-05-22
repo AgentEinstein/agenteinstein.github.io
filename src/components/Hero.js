@@ -24,13 +24,13 @@ const HeroSection = styled.section`
 `;
 
 const TextContainer = styled.div`
-  width: 50%; /* Makes the text container span 50% of the page */
-  max-width: 600px; /* Optional: Set a maximum width */
-  min-width: 300px; /* Optional: Set a minimum width */
-  margin: 0 auto; /* Center the container */
+  width: 50%; 
+  max-width: 600px; 
+  min-width: 300px;
+  margin: 0 auto; /
   
   h1 {
-    font-size: 2.5rem; /* Example font size */
+    font-size: 2.5rem; 
     margin-bottom: 1rem;
   }
   
@@ -46,8 +46,8 @@ const TextContainer = styled.div`
   }
 
   p {
-    font-size: 1.1rem; /* Example font size */
-    line-height: 1.5; /* Example line height */
+    font-size: 1.1rem; 
+    line-height: 1.5; 
     margin-bottom: 1rem;
   }
 `;
