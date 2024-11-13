@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <SocialLinks>
-        <SocialLink href="https://www.linkedin.com/in/rafid-b-a21092203/" target="_blank" rel="noopener noreferrer" title="LinkedIn" className="linkedin">
+        <SocialLink href="https://www.linkedin.com/in/bhuiyan-rafid/" target="_blank" rel="noopener noreferrer" title="LinkedIn" className="linkedin">
           <FaLinkedin />
         </SocialLink>
         <SocialLink href="https://github.com/AgentEinstein" target="_blank" rel="noopener noreferrer" title="GitHub" className="github">
