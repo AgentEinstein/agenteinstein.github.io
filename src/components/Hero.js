@@ -5,8 +5,8 @@ const Hero = () => {
   return (
     <HeroSection>
       <TextContainer>
-        <h1>Byron Bhuiyan</h1>
-        <img src={ProfPic} alt="Byron Bhuiyan" />
+        <h1>Joe Blanks</h1>
+        <img src={ProfPic} alt="Joe Blanks" />
         <p>Dedicated Computer Science student seeking to leverage my foundational knowledge in software development as a
           Software Engineer Intern. Passionate about cultivating innovation and optimizing work processes. Eager to collaborate with a team and immerse myself in the professional and educational opportunities presented.
         </p>
