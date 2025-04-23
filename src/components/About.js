@@ -52,5 +52,5 @@ const TextContainer = styled.div`
     margin-bottom: 1rem;
   }
 `;
-
+//d
 export default About;
